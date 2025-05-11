@@ -176,9 +176,15 @@ header('Content-Type: text/html; charset=utf-8');
     <div class="mt-4">
         <h5>Keterangan Cluster:</h5>
         <ul>
+<<<<<<< HEAD
             <li><span style="color: #FF0000;">●</span> Cluster 0: Aktivitas tinggi</li>
             <li><span style="color: #00FF00;">●</span> Cluster 1: Aktivitas sedang</li>
             <li><span style="color: #0000FF;">●</span> Cluster 2: Aktivitas rendah</li>
+=======
+            <li><span style="color: #FF0000;">●</span> Cluster 0: Aktivitas tinggi (gempa dengan magnitudo besar)</li>
+            <li><span style="color: #00FF00;">●</span> Cluster 1: Aktivitas sedang (gempa dengan magnitudo sedang)</li>
+            <li><span style="color: #0000FF;">●</span> Cluster 2: Aktivitas rendah (gempa dengan magnitudo kecil)</li>
+>>>>>>> 1f7f051512e9a49cd9e63cb26c5ff0d7087a0988
         </ul>
     </div>
 
